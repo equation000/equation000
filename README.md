@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning golang 
 <!--
 **equation000/equation000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
